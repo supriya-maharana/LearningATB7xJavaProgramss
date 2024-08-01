@@ -1,7 +1,5 @@
 package ex_07072024;
 
-public class Lab010 {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
+public class _Lab010 {
+    //you can use underscore before class name
 }

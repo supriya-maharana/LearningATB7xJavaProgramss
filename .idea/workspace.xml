@@ -1,27 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="" />
+    <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/$Lab012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/$Lab012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab011.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab011.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab013.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab013.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab_Supriya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab_Supriya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab_Supriya123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab_Supriya123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/_Lab010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/_Lab010.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "supriya-maharana"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/supriya-maharana/LearningATB7xJavaProgramss.git",
+    "accountId": "430aec66-0cdc-4323-9b6d-894095868db7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2k3BdgtOzo15jwWjKzdnuoXy9Iy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab033.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SUPRIYA/IdeaProjects/LearningATB7xJavaProgramss/src/ex_13072024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SUPRIYA\IdeaProjects\LearningATB7xJavaProgramss\src\ex_13072024" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex_07072024" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

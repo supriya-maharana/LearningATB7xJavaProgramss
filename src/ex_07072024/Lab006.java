@@ -1,7 +1,9 @@
 package ex_07072024;
 
-public class Lab001 {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
+public class Lab006 {
+    //argument name can be changed.
+    public static void main(String[] supriya) {
+        System.out.println("Lab007");
+        System.out.println("Lab008");
     }
 }
