@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="Added file">
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27072014/Lab152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +100,7 @@
     "Application.Lab148.executor": "Run",
     "Application.Lab149.executor": "Run",
     "Application.Lab152.executor": "Run",
+    "Application.Lab154.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -185,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722791607515</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added file">
+      <option name="closed" value="true" />
+      <created>1723049510224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723049510225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
