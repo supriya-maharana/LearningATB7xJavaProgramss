@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="Added file" />
+    <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="Added all file">
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/methodOverloading/Lab179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/methodOverloading/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/methodOverriding/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/methodOverriding/Hound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/methodOverriding/Lab180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/superthiskeyword/Lab181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/superthiskeyword/Lab182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Polymorphism/superthiskeyword/Lab183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/Realtime_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/encapsulation/ICICIBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/encapsulation/Lab176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/encapsulation/Lab177.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/encapsulation/Lab178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_10082024/encapsulation/VwologinPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/AccessModifier/Criminal/Thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/accessModifier/Criminal/Thief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/AccessModifier/Lab175.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/accessModifier/Lab175.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/AccessModifier/Police/Cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/accessModifier/Police/Cop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/AccessModifier/Police/JrCop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/accessModifier/Police/JrCop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/AccessModifier/Police/Pramod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/accessModifier/Police/Pramod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/HirarchyInheritance/Diba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/hirarchyInheritance/Diba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/HirarchyInheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/hirarchyInheritance/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/HirarchyInheritance/Lab174.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/hirarchyInheritance/Lab174.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/HirarchyInheritance/Supi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/hirarchyInheritance/Supi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/HirarchyInheritance/Supriya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/hirarchyInheritance/Supriya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/Multilevel_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/multilevel_Inheritance/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/Multilevel_Inheritance/GrandFather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/multilevel_Inheritance/GrandFather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/Multilevel_Inheritance/Lab173.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/multilevel_Inheritance/Lab173.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/Multilevel_Inheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/multilevel_Inheritance/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/Lab171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/Lab171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/RealTime/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/RealTime/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/RealTime/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/RealTime/GrandBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/RealTime/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/RealTime/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/RealTime/TestCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/RealTime/TestCase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/ex/Programming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/ex/Programming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/SingleInheritance/ex/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/singleInheritance/ex/Python.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/hasA/ex/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/ex/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/hasA/ex/Enginees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/ex/Enginees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/hasA/ex/Tyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/ex/Tyres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/hasA/isA/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/isA/Tesla.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,13 +138,21 @@
     "Application.Lab169.executor": "Run",
     "Application.Lab171.executor": "Run",
     "Application.Lab173.executor": "Run",
+    "Application.Lab176.executor": "Run",
+    "Application.Lab177.executor": "Run",
+    "Application.Lab178.executor": "Run",
+    "Application.Lab179.executor": "Run",
+    "Application.Lab180.executor": "Run",
+    "Application.Lab181.executor": "Run",
+    "Application.Lab182.executor": "Run",
+    "Application.Realtime_Inheritance.executor": "Run",
     "Application.TestCase2.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/SUPRIYA/IdeaProjects/LearningATB7xJavaProgramss/src/July",
+    "last_opened_file_path": "C:/Users/SUPRIYA/IdeaProjects/LearningATB7xJavaProgramss/src/Aug/ex_10082024/Encapsulation",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -116,6 +167,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SUPRIYA\IdeaProjects\LearningATB7xJavaProgramss\src\Aug\ex_10082024\Encapsulation" />
       <recent name="C:\Users\SUPRIYA\IdeaProjects\LearningATB7xJavaProgramss\src\ex_20072024" />
       <recent name="C:\Users\SUPRIYA\IdeaProjects\LearningATB7xJavaProgramss\src\ex_14072024" />
       <recent name="C:\Users\SUPRIYA\IdeaProjects\LearningATB7xJavaProgramss\src\ex_13072024" />
@@ -210,12 +262,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723723625664</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added all file">
+      <option name="closed" value="true" />
+      <created>1723723965921</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723723965922</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added file" />
+    <MESSAGE value="Added all file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,7 +287,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/July/ex_07072024/ex_27072014/Lab146.java</url>
+          <url>file://$PROJECT_DIR$/src/July/ex_27072014/Lab146.java</url>
           <line>10</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
