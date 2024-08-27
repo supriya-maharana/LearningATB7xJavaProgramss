@@ -17,13 +17,13 @@ public class Lab191 {
 class ATB
 {
 
-    System.out.println("IIB"); //Instance installation block
+    //System.out.println("IIB"); //Instance installation block
     // What is the purpose? -
     // Here you can write code related to
     // start a website or anything before starting the
     // web automation or api automation
     //
-        System.out.println("Reading from CSV file");
+        //System.out.println("Reading from CSV file");
 
     static {
         System.out.println("Load the class?, I will execute");

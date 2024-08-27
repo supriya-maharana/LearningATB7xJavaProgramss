@@ -5,36 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="Added all file">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/IEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/Lab187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/Lab188.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/WagnoR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/ex2/CarC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/ex2/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/ex2/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/Interface/ex3/Lab190.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/GearBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/Keys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/Lab184.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/RealLifeex/Baseclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/RealLifeex/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/RealLifeex/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/RealLifeex/GrandBaseclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/RealLifeex/Lab186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/WagonR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/exLoan/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/exLoan/Lab185.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/exLoan/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/excar/i10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/multipleInheritance/IFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/multipleInheritance/IMother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/multipleInheritance/Lab189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/multipleInheritance/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/staticKeyword/Lab191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/BUG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/COLORS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab196.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab212.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/PAGES.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/ex_11082024/staticKeyword/Lab191.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/staticKeyword/Lab191.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +43,7 @@
       <list>
         <option value="module-info" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -78,6 +76,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Java program.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab033.executor": "Run",
     "Application.Lab106.executor": "Run",
@@ -137,6 +136,15 @@
     "Application.Lab187.executor": "Run",
     "Application.Lab190.executor": "Run",
     "Application.Lab191.executor": "Run",
+    "Application.Lab193.executor": "Run",
+    "Application.Lab195.executor": "Run",
+    "Application.Lab196.executor": "Run",
+    "Application.Lab199.executor": "Run",
+    "Application.Lab204.executor": "Run",
+    "Application.Lab206.executor": "Run",
+    "Application.Lab207.executor": "Debug",
+    "Application.Lab211.executor": "Run",
+    "Application.Lab212.executor": "Run",
     "Application.Realtime_Inheritance.executor": "Run",
     "Application.TestCase2.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
@@ -183,6 +191,13 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="Java program" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Aug.ex_17082024.Lab204" />
+      <module name="LearningATB7xJavaProgramss" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab140" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
       <option name="MAIN_CLASS_NAME" value="July.ex_07072024.ex_27072014.Lab140" />
       <module name="LearningATB7xJavaProgramss" />
@@ -191,6 +206,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab140" />
+      <item itemvalue="Application.Java program" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -273,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724171733384</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added all file">
+      <option name="closed" value="true" />
+      <created>1724330970149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724330970150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,7 +324,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/July/ex_07072024/ex_21072024/Lab126.java</url>
           <line>3</line>
-          <properties class="July.ex_07072024.ex_21072024.Lab126">
+          <properties class="July.ex_07072024.ex_21072024.Lab126" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
