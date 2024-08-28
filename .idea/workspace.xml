@@ -5,33 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="Added all file">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/BUG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/COLORS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab192.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab193.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab194.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab195.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab196.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab199.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab204.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab210.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab211.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/Lab212.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_17082024/PAGES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab224.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab229.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab214.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab221.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aug/ex_11082024/staticKeyword/Lab191.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_11082024/staticKeyword/Lab191.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,11 +138,24 @@
     "Application.Lab207.executor": "Debug",
     "Application.Lab211.executor": "Run",
     "Application.Lab212.executor": "Run",
+    "Application.Lab213.executor": "Run",
+    "Application.Lab215.executor": "Run",
+    "Application.Lab216.executor": "Run",
+    "Application.Lab217.executor": "Run",
+    "Application.Lab218.executor": "Run",
+    "Application.Lab219.executor": "Run",
+    "Application.Lab220.executor": "Run",
+    "Application.Lab223.executor": "Run",
+    "Application.Lab225.executor": "Run",
+    "Application.Lab226.executor": "Run",
+    "Application.Lab227.executor": "Run",
+    "Application.Lab230.executor": "Run",
     "Application.Realtime_Inheritance.executor": "Run",
     "Application.TestCase2.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "public",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/SUPRIYA/IdeaProjects/LearningATB7xJavaProgramss/src/Aug/ex_10082024/Encapsulation",
@@ -300,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724330970150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added all file">
+      <option name="closed" value="true" />
+      <created>1724742410242</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724742410243</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
