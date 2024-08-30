@@ -4,26 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="Added all file">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab224.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab227.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab228.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Collection_Framework/Lab230.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab214.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab218.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_18082024/Lab221.java" afterDir="false" />
+    <list default="true" id="5fda80dd-82d7-4555-9126-1aaa0741c46b" name="Changes" comment="added file">
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab241.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab243.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_24082024/Lab244.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,6 +145,15 @@
     "Application.Lab226.executor": "Run",
     "Application.Lab227.executor": "Run",
     "Application.Lab230.executor": "Run",
+    "Application.Lab231.executor": "Run",
+    "Application.Lab232.executor": "Run",
+    "Application.Lab233.executor": "Run",
+    "Application.Lab234.executor": "Run",
+    "Application.Lab235.executor": "Run",
+    "Application.Lab237.executor": "Run",
+    "Application.Lab238.executor": "Run",
+    "Application.Lab239.executor": "Run",
+    "Application.Lab240.executor": "Run",
     "Application.Realtime_Inheritance.executor": "Run",
     "Application.TestCase2.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
@@ -212,10 +216,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug.ex_24082024.Lab233" />
+      <module name="LearningATB7xJavaProgramss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aug.ex_24082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab140" />
       <item itemvalue="Application.Java program" />
+      <item itemvalue="Application.Lab233" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab233" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -314,13 +337,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724742410243</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added file">
+      <option name="closed" value="true" />
+      <created>1724833080102</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724833080102</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added file" />
     <MESSAGE value="Added all file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all file" />
+    <MESSAGE value="added file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,5 +378,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningATB7xJavaProgramss$Lab233.ic" NAME="Lab233 Coverage Results" MODIFIED="1724994913244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Aug.ex_24082024.*</FILTER>
+    </SUITE>
   </component>
 </project>
